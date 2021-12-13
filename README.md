@@ -5,21 +5,26 @@ Election Audit Analysis for the Colorado Board of Election.
 
 # Overview of the Election Audit
 
-### Purpose:
+### Purpose
 
 Tom is a Colorado board of elections employee who needs assistance with automating the Election audit of the tabulated results for the US Congressional precinct in Colorado. 
 
 The US congressional race will be certified by the automated election audit with the following results:
-1.) The total number of votes cast.
-2.) A complete list of candidates who received votes and the counties that voted.
-3.) The total number of votes each candidate received.
-4.) The percentage of votes each candidate won.
-5.) The county with the highest voter turnout.
-6.) The winning candidate of the election is based on the popular vote.
 
-Resources
+- The total number of votes cast.
+- A complete list of candidates who received votes and the counties that voted.
+- The total number of votes each candidate received.
+- The percentage of votes each candidate won.
+- The county with the highest voter turnout.
+- The winning candidate of the election which is based on the popular vote.
 
-Election Audit Results:
+### Resources
+
+
+
+
+
+### Election Audit Results:
 
 The analysis shows the follwing results
 
