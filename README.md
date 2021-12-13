@@ -21,6 +21,8 @@ The US congressional race will be certified by the automated election audit with
 ### Resources
 Python Version 3.7.6
 VS Code Version 1.62.3
+[Data Election Results](https://github.com/java2509/election_analysis/files/7701318/election_results.csv)
+
 
 ### Election Audit Results:
 
