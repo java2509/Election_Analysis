@@ -26,27 +26,22 @@ The US congressional race will be certified by the automated election audit with
 
 ### Election Audit Results:
 
-The analysis shows the follwing results
+The analysis of the automated process shows the follwing results
 
-There were 369,711 votes cast in the election.
-
-The results for each county were:
-    Jefferson county cast 38,855 votes, 10.5% of the total vote.
-    Denever county cast 306,055 votes, 82.8% of the total vote.
-    Arapahoe county cast 24,801 votes, 6.7% of the total vote.
-
-The county with the largest number of votes was Denver.
-
-The results for each candidate:
-
-Charles Casper Stockham received 23% of the vote and 85,213 number of votes.
-Diana DeGette received 73.8% of the vote and 272,892 number of votes.
-Raymon Anthony Doane received 3.1% of the vote with 11,606 number of votes.
-
-The winner of the election was Diana DeGette who received 73.8% of the votes and 272,892 number of votes.
+- There were 369,711 votes cast in the election.
+- The results for each county were:
+    - Jefferson county cast 38,855 votes, 10.5% of the total vote.
+    - Denever county cast 306,055 votes, 82.8% of the total vote.
+    - Arapahoe county cast 24,801 votes, 6.7% of the total vote.
+- The county with the largest number of votes was Denver.
+- The results for each candidate:
+    - Charles Casper Stockham received 23% of the vote and 85,213 number of votes.
+    - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+    - Raymon Anthony Doane received 3.1% of the vote with 11,606 number of votes.
+- The winner of the election was Diana DeGette who received 73.8% of the votes and 272,892 number of votes.
 
 
-Election Audit Summary
+### Election Audit Summary
 
 This automated process could also be used for primary,general and local elections, some modifications would be have to made for the following:
  - Change county list to state list for a primary, general or local election
