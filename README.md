@@ -7,20 +7,15 @@ Election Audit Analysis for the Colorado Board of Election.
 
 ### Purpose:
 
-Tom is a Colorado board of elections employee who needs assistance with an Election audit of the tabulated results for the US Congressional precinct in Colorado. Tom's manager wants the election audit process automated using python. 
-The results of the votes are determined by the following three primary methods:
+Tom is a Colorado board of elections employee who needs assistance with automating the Election audit of the tabulated results for the US Congressional precinct in Colorado. 
 
-1.) Mail-in ballots: that are hand-counted at the central office
-2.) Punch Cards: that is collected and fed into a machine that tabulates vote totals and sends the results to the central office
-3.) Direct Recording Electronic Machines: have memory cards that are sent to the central office and are read by a computer.
-
-The votes cast by these three voting methods determine the election, this election audit will be used to certify this US congressional race.The automated process will determine on the following for the audit:
+The US congressional race will be certified by the automated election audit with the following results:
 1.) The total number of votes cast.
 2.) A complete list of candidates who received votes and the counties that voted.
 3.) The total number of votes each candidate received.
 4.) The percentage of votes each candidate won.
 5.) The county with the highest voter turnout.
-6.) The winner of the election is based on the popular vote.
+6.) The winning candidate of the election is based on the popular vote.
 
 Resources
 
