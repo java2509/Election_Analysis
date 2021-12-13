@@ -19,10 +19,8 @@ The US congressional race will be certified by the automated election audit with
 - The winning candidate of the election which is based on the popular vote.
 
 ### Resources
-
-
-
-
+Python Version 3.7.6
+VS Code Version 1.62.3
 
 ### Election Audit Results:
 
