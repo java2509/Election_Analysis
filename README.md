@@ -5,7 +5,7 @@ Election Audit Analysis for the Colorado Board of Election.
 
 # Overview of the Election Audit
 
-### Purpose
+### Purpose:
 
 Tom is a Colorado board of elections employee who needs assistance with automating the Election audit of the tabulated results for the US Congressional precinct in Colorado. 
 
@@ -18,7 +18,7 @@ The US congressional race will be certified by the automated election audit with
 - The county with the highest voter turnout.
 - The winning candidate of the election which is based on the popular vote.
 
-### Resources
+### Resources:
 Python Version 3.7.6
 
 VS Code Version 1.62.3
@@ -43,7 +43,8 @@ The analysis of the automated process shows the follwing results
 - The winner of the election was Diana DeGette who received 73.8% of the votes and 272,892 number of votes.
 
 ![D09B093C-769A-4C36-9ABC-91B7E52E8158](https://user-images.githubusercontent.com/93900628/145759439-d2f307e6-a3ce-4029-ae4b-6f3d3d920b2f.jpeg)
-### Election Audit Summary
+
+### Election Audit Summary:
 
 This automated process could also be used for primary,general and local elections, some modifications would be have to made for the following:
  - Change county list to state list for a primary, general or local election
